@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Wenhao Chen
 
-- :star: I received my B.S. in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2023.
+- :seedling: Ph.D. student in Computer Science at the University of Waterloo, advised by Prof. Hong Zhang.
 
-- :thinking: Currently, my research interest lies in how to serve LLM efficiently. (Maybe later DiT.)
+- :thinking: I work on LLM serving systems: prefill/decode scheduling and parallelism. Latest: [ConfluxServe](https://arxiv.org/abs/2610.37810).
 
-- :seedling: MMath at the University of Waterloo.
+- :briefcase: Previously: Founding Engineer at Reactor (real-time world models), ML Systems Engineer at HPC-AI Tech (core developer of [Colossal-AI](https://github.com/hpcaitech/ColossalAI)), research intern at Microsoft Research Asia.
 
-- :warning: My GitHub personal website is under reconstruction, you can view some of my repos.
+- :star: B.Eng. in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (Zhiyuan Honors Program), 2023.
 
-- 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf), latest update 2023/12)
+- 💬 More about me ([CV](https://github.com/CWHer/cwher/blob/main/CV.pdf), latest update 2026/11) · 📫 cwher@outlook.com
 
 <!--
 **CWHer/cwher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,15 +46,11 @@ Here are some ideas to get you started:
     <strong>Languages</strong><br><br>
     <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++"></code>
     <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python"></code>
-    <code><img height="20" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Markdown"></code>
-    <code><img height="20" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTex" title="LaTex"></code>
-    <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#"></code>
+    <code><img height="20" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" title="CUDA"></code>
     <br><br><strong>Frameworks</strong><br><br>
     <code><img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" title="Pytorch"></code>
     <code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" title="Numpy"></code>
-    <code><img height="20" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" title="Qt"></code>
-    <code><img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity"></code>
-    <code><img height="20" src="https://img.shields.io/badge/matlab-fa5103?style=for-the-badge&logo=MATLAB&logoColor=white" alt="Matlab" title="Matlab"></code>
+    <code><img height="20" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray" title="Ray"></code>
     <br><br><strong>Tools and Environments</strong><br><br>
     <code><img height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"></code>
     <code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" title="VSCode"></code>
