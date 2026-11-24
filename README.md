@@ -2,7 +2,7 @@
 
 - :seedling: Ph.D. student in Computer Science at the University of Waterloo, advised by Prof. Hong Zhang.
 
-- :thinking: I work on LLM serving systems: prefill/decode scheduling and parallelism. Latest: [ConfluxServe](https://arxiv.org/abs/2610.37810).
+- :thinking: I work on LLM serving systems: prefill/decode scheduling and parallelism.
 
 - :briefcase: Previously: Founding Engineer at Reactor (real-time world models), ML Systems Engineer at HPC-AI Tech (core developer of [Colossal-AI](https://github.com/hpcaitech/ColossalAI)), research intern at Microsoft Research Asia.
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div align="center">
     <p>
         <a href="https://github.com/CWHer" class="rich-diff-level-one">
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
         <img src="https://gist.githubusercontent.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/basic.svg">
     </a>
 </div>
+-->
 
 ---
 
@@ -69,22 +71,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-:bar_chart: **This week I spent my time on:**
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Markdown     4 hrs 42 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.21 %
-Python       3 hrs 16 mins         🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.90 %
-Other        1 hr 18 mins          🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.11 %
-Text         57 mins               🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.23 %
-TeX          26 mins               🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.83 %
-```
-
-<!--END_SECTION:waka-->
 
 <div align="center">
     <img style="float: center; width: 48%; min-width: 300px; margin: 2px;" src="https://gist.githubusercontent.com/CWHer/94a699517170510e22bbcf84270c61f9/raw/general.svg">
